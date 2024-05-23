@@ -3,6 +3,8 @@
 - I am Wizard_11, or AGENTISNUM1!
 - I code in java, and mostly make small scale projects on github.
 - I am somewhat active, but I am taking a break from anarchy at the moment, though I will continue development soon.
+- Add me on discord, ```wizard_11```
+
 
 **Badges:**
 
