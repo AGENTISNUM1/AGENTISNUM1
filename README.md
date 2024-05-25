@@ -8,7 +8,13 @@
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
 
+![Static Badge](https://img.shields.io/badge/Shit%20Code-purple?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Native%20OS%3A%20ChromeOS-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+
+
 Add me! ```Wizard_11```
+
+
 
 **Languages:**
 
@@ -28,3 +34,4 @@ Add me! ```Wizard_11```
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
