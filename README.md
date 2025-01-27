@@ -12,7 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/Native%20OS%3A%20ChromeOS-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 
-Add me! ```Wizard_11```
+Add me on discord! ```doesntpaytaxes```
 
 
 
