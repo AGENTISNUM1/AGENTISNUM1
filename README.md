@@ -9,8 +9,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
 
 ![Static Badge](https://img.shields.io/badge/Shit%20Code-purple?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Native%20OS%3A%20ChromeOS-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
-
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 Add me on discord! ```doesntpaytaxes```
 
